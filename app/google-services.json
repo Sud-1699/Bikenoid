@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739800574111",
+    "firebase_url": "https://bikenoid-89841.firebaseio.com",
+    "project_id": "bikenoid-89841",
+    "storage_bucket": "bikenoid-89841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739800574111:android:ee2c72c61d1e4ad7e39aaa",
+        "android_client_info": {
+          "package_name": "com.example.bikenoid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739800574111-h69jf0n9dc7ik5gunca3mbac68cp675n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bikenoid",
+            "certificate_hash": "e9e31209e336a1105e305a39bb3398348eb32c63"
+          }
+        },
+        {
+          "client_id": "739800574111-kh5sv6admgu7vbmjl3jlmhjv0734bimq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPXtCNsO0-KN7clcBbv3zKHLAEDDxUjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739800574111-kh5sv6admgu7vbmjl3jlmhjv0734bimq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
