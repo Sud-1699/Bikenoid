@@ -1,0 +1,10 @@
+- Bikenoid is a GPS/GSM based system.
+- Project develops in Arduino IDE.
+- Description:
+    - Use to detect the accident and determine the type of accident, speed of the bike.
+    - Track lost/robbed bike using map via application.
+    - Monitor speed and allow user to set limit of speed.
+    - Monitor Accident detection.
+    - Alert rider about bike against theft.
+    - Also send emergency message with location to family member, emergency hospital and police, in case of accident.
+    - Store real-time speed data and message in RT database.
